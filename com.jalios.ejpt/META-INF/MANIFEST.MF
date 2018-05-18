@@ -7,11 +7,11 @@ Bundle-Activator: com.jalios.jpt.Activator
 Bundle-Vendor: Jalios
 Require-Bundle: org.eclipse.ui,
  org.eclipse.core.runtime,
- org.eclipse.core.resources;bundle-version="3.6.0",
- org.eclipse.ui.console;bundle-version="3.5.0",
- org.eclipse.ui.ide;bundle-version="3.5.0"
+ org.eclipse.core.resources;bundle-version="3.12.0",
+ org.eclipse.ui.console;bundle-version="3.7.1",
+ org.eclipse.ui.ide;bundle-version="3.13.1"
 Bundle-RequiredExecutionEnvironment: JavaSE-1.6
 Bundle-ActivationPolicy: lazy
 Bundle-ClassPath: .,
  commons-logging-1.1.jar,
- sync-2.0-jar-with-dependencies.jar
+ sync-2.0.4-SNAPSHOT-jar-with-dependencies.jar

@@ -3,8 +3,7 @@
       id="com.jalios.ejpt.feature"
       label="%featureName"
       version="2.0.4.qualifier"
-      provider-name="%providerName"
-      plugin="com.jalios.ejpt">
+      provider-name="%providerName">
 
    <description url="http://www.example.com/description">
       %description
@@ -17,10 +16,6 @@
    <license url="%licenseURL">
       [Enter License Description here.]
    </license>
-
-   <url>
-      <update label="%updateSiteName" url="https://github.com/jalios/eclipse-jcms-plugin-tools"/>
-   </url>
 
    <plugin
          id="com.jalios.ejpt"
